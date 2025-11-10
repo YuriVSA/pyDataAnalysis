@@ -52,8 +52,7 @@ Siga os passos abaixo para executar o projeto no seu ambiente local.
 
 ```
 projetoMinimoQuadradoRecursivo/
-│
-├── README.md                
+│              
 ├── requirements.txt         # Lista de dependências Python
 ├── leitorCSV.py
 ├── gerarDadosPrecal.py
